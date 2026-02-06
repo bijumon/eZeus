@@ -1,3 +1,4 @@
+#include "engine/egameboard.h"
 #include "emovearoundaction.h"
 
 #include "characters/echaracter.h"

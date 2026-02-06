@@ -2,6 +2,7 @@
 #define EGAMEBOARD_H
 
 #include <vector>
+#include "erandom_shuffle.h"
 #include "elimits.h"
 #include "etile.h"
 

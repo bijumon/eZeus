@@ -1,3 +1,4 @@
+#include "engine/egameboard.h"
 #include "enumlineedit.h"
 
 eNumLineEdit::eNumLineEdit(eMainWindow* const window) :
